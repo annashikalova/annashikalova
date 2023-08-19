@@ -1,6 +1,6 @@
 ## Portfolio
 
-Name | Lunch order | Spicy      | Owes
+Наименование проекта | Описание | Стек      | Owes
 ------- | ---------------- | ---------- | ---------:
 Joan  | saag paneer | medium | $11
 Sally  | vindaloo        | mild       | $14
